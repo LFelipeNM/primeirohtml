@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+}
+
+.M {
+    color: rgb(0, 0, 0);
+
+
+}
+
+span {
+    color: gold;
+
+}
+
+.img-logo {
+    width: 12%;
+    height: 12%;
+
+
+}
+
+.img-principal {
+    width: 850px;
+    height: 750px;
+
+}
+
+.retangulo {
+    background-color: rgb(224, 223, 223);
+}
+
+.corpo {
+    background-color: rgb(0, 0, 0);
+}
+
+.BR {
+    color: rgb(201, 201, 201);
+}
+
+.M {
+    color: rgb(255, 255, 255);
+}
+
+.Testeh1 img {
+    float: left;
+}
+
+.nike11 {
+    text-align: right;
+
+}
+
+.abelha img {
+
+    width: 250px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.Musica-aaaa iframe {
+
+    float: left;
+    margin-left: 100px;
+}
